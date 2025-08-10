@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Mo'men from Palestine<br><br>- 🔭 I’m Computer Enginner Student <br>- 📚 I'm currently learning next js<br>- ⚡ In my free time I am learning new thing</p>
+<p align="left">I'm Mo'men from Palestine<br><br>- 🔭 I’m Computer Enginner Student <br>- 📚 I'm currently learning PHP LARAVEL<br>- ⚡ In my free time I am learning new thing</p>
 
 ###
 
