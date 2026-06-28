@@ -1,74 +1,158 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Mo'men Alswafiri</h1>
 
-<div align="center">
-</div>
+<h3 align="center">Full-Stack Software Engineer | Next.js • NestJS • PostgreSQL</h3>
 
-###
+<p align="center">
+  Passionate about building scalable web applications and creating clean, maintainable software.
+</p>
 
-<h1 align="center">hey there 👋, My name is Mo'men</h1>
+---
 
-###
+<h3 align="left">👨‍💻 About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
 
-###
+💼 Full-Stack Software Engineer
 
-<p align="left">I'm Mo'men from Palestine<br><br>- 🔭 I’m Computer Enginner Student <br>- I'm open to work<br>- ⚡ In my free time I am learning new thing</p>
+🌍 Based in Palestine
 
-###
+🚀 Building modern web applications with Next.js, NestJS, TypeScript, and PostgreSQL
 
-<h3 align="left">🛠 Language and tools</h3>
+📚 Continuously learning new technologies and improving my software engineering skills
 
-###
+🤝 Open to collaborating on interesting projects
+
+⚡ I enjoy solving real-world problems through code
+
+</p>
+<h3 align="left">🛠 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="80" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="80" alt="materialui logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="80" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="65" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="65" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="65" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="materialui logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="65" alt="cplusplus logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momen-x&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen-x&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=momen-x&theme=tokyonight&hide_border=true" height="170" />
+</div>
+<h3 align="left">🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏨 Booking Platform
+
+A full-stack booking platform built with **Next.js**, **NestJS**, **Prisma**, and **PostgreSQL**.
+
+✨ Features:
+
+* User Authentication (JWT)
+* Booking Management
+* Image Upload with Cloudinary
+* Role-Based Access Control
+* Responsive UI
+* REST API
+* Admin Dashboard
+
+</td>
+
+<td width="50%">
+
+### 🛠 Currently Working On
+
+* Improving Backend Architecture
+* Learning System Design
+* Building Scalable Full-Stack Applications
+* Exploring Docker & DevOps
+
+</td>
+</tr>
+</table>
+
 ###
 
-<p align="left">Hello World!!</p>
-
-###
+<h3 align="left">📫 Connect With Me</h3>
 
 <div align="left">
+  <a href="mailto:moamenalswafiri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mo'men-alswafiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momen-x/momen-x/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momen-x/momen-x/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/momen-x/momen-x/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
+
+<h3 align="left">📌 Open to Opportunities</h3>
+
+<p align="left">
+  💼 Full-Stack / Backend / Frontend roles<br>
+  🌍 Open to Remote, Full-time, and Freelance work<br>
+  ⚙️ Preferred Stack: Next.js, NestJS, TypeScript, PostgreSQL<br>
+  🚀 Interested in building scalable, production-ready applications<br>
+</p>
 
 ###
+
+<h3 align="left">📊 Summary</h3>
+
+<p align="left">
+  I am a Full-Stack Software Engineer focused on building scalable web applications using modern technologies.
+  I enjoy designing clean backend architectures, building responsive frontend interfaces, and delivering real-world solutions.
+</p>
+
+###
+
+<h3 align="center">👾 Thanks for visiting my profile</h3>
+
+
+
