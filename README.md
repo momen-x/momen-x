@@ -23,7 +23,7 @@ Building scalable web applications with clean architecture and modern technologi
 🌍 Based in Palestine.
 
 🚀 Experienced with modern full-stack technologies:
-**Next.js, React, NestJS, TypeScript, PostgreSQL, Prisma ORM**
+**Next.js, React, NestJS, TypeScript, PostgreSQL, Prisma ORM, Cloudinary**
 
 🏗️ Interested in:
 - Backend Architecture
@@ -47,7 +47,7 @@ Building scalable web applications with clean architecture and modern technologi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
 
 </div>
@@ -126,10 +126,9 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=momen-x&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=momen-x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen-x&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen-x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 
